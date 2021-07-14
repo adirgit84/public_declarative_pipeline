@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Build') {
             steps {
-                echo 'github trigger test2.'
+                echo 'github trigger test3.'
             }
         //  post {
         //         success {
